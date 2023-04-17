@@ -1,0 +1,2 @@
+# Java_exec_gmt_test
+Java调用python实现gmt随机数质量检测核心示例代码
