@@ -1,4 +1,4 @@
-# Java_exec_gmt_test
+# java_exec_gmt_test
 Java调用python实现gmt随机数质量检测核心示例代码
 
 |   Total Visitors:   |   ![Visitor Count](https://profile-counter.glitch.me/Yohann0617/count.svg)   |
